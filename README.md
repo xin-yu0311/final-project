@@ -5,7 +5,7 @@
 - Student ID: T113370209
 
 ## Project Repository
-[Paste your GitHub repository link here]
+(https://github.com/xin-yu0311/final-project/tree/main)
 
 ## Presentation Video
 [Paste your YouTube video link here]
