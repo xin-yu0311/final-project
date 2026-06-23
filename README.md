@@ -8,7 +8,7 @@
 (https://github.com/xin-yu0311/final-project/tree/main)
 
 ## Presentation Video
-[Paste your YouTube video link here]
+(https://youtu.be/g08c0qn7Cl0?si=3rBcsLT9bvkEG3yD)
 
 ## Selected Research Question
 **The Relationship Between Physical Activity and BMI Percentile Among Students**
